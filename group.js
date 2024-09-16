@@ -61,11 +61,11 @@ async function MRhansamala() {
 
                        
                         let message = `*${data.title}* 
-●━━━━━━━━━━━━━━━━━━━━━●  
+ 
 ${data.time} 
-●━━━━━━━━━━━━━━━━━━━━━● 
+
 ${data.desc}
-●━━━━━━━━━━━━━━━━━━━━━●
+
 
 📍 *SL News*
 
@@ -73,7 +73,7 @@ ${data.desc}
 
 🔗 *Create By MR-Hansamala*
 
-●━━━━━━━━━━━━━━━━━━━━━●`;
+━━━━━━━━━━━━━━━━━━━━━●`;
 
                         
                         await session.sendMessage("120363307730093301@g.us", { image: { url: data.image }, caption: message }, { ephemeralExpiration: WA_DEFAULT_EPHEMERAL });
