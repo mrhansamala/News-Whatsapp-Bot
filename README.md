@@ -11,9 +11,19 @@
 [Esana News](https://github.com/mrhansamala)  | [Hiru News](https://github.com/mrhansamala) | [Derana News](https://github.com/mrhansamala) | 
 Esana NEWS  | Hiru NEWS | Derana NEWS 
 
+<br>
+ 
+<h4 align="center"> Creds Json FIle
+</h4>
 
-<a href='https://replit.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+</p> 
+<p align="center" >
+<a href='https://replit.com/' target="_blank"><img alt='Creds Json FIle' src='https://img.shields.io/badge/Creds_Json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<p align="center" >
+    <br>
+ 
 
+</p>
 
 <br>
  
