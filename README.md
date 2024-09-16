@@ -45,6 +45,43 @@ Esana NEWS  | Hiru NEWS | Derana NEWS
     <br>
 </p>
 
+<h4 align="center"> Deploy on Railway 
+</h4>
+  
+<p align="center">
+    <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
+    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
+    </a>
+    <br>
+
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+<br>
+      
+<h4 align="center"> Deploy on Koyeb
+</h4>
+      
+<p align="center">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/FantoX/Atlas-MD:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
+    </a>
+   <br>     
+    
+</p>
+
+
+<p align="center" >
+    <br>
+    
+</p>
+
+
 
 <br>
 
