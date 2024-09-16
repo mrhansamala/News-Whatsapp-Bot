@@ -11,12 +11,34 @@
 [Esana News](https://github.com/mrhansamala)  | [Hiru News](https://github.com/mrhansamala) | [Derana News](https://github.com/mrhansamala) | 
 Esana NEWS  | Hiru NEWS | Derana NEWS 
 
-## SCAN QR CODE
 
 <a href='https://replit.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=)
 
+<br>
+ 
+<h4 align="center"> Deploy on Heroku
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/mrhansamala/News-Whatsapp-Bot">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
+
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+<br>
+
+</p>
 ##BIULD PACKS
 
 1)     heroku/nodejs
