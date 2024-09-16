@@ -1,0 +1,34 @@
+  {
+ "name": "HIRU-NEWS-BOT",  
+    "description": "whatsapp md bot build with nodejs",  
+    "repository": "https://github.com/MR-KALINDU/HIRU-NEWS-BOT",  
+    "logo": "https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg",  
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],  
+    "env": {
+ "SESSION_ID": {
+    "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
+   },
+  "MONGODB_URI": {
+    "description": "GIVE MONGODB URL(Required)"
+  }
+},
+
+    "buildpacks": [  
+      {  
+        "url": "heroku/nodejs"  
+      },  
+      {  
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"  
+      },  
+      {  
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"  
+      }  
+    ],  
+     "formation": {  
+          "worker": {  
+              "quantity": 1,  
+              "size": "eco"  
+          }  
+      }  
+
+}
