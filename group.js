@@ -6,7 +6,7 @@ const deranaNews = require('@kaveesha-sithum/derana-news');
 
 async function MRhansamala() {
     
-    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session');
+    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/ADD-CRED-JSON');
     const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) });
     const { version } = await fetchLatestBaileysVersion();
 
