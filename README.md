@@ -13,7 +13,7 @@ Esana NEWS  | Hiru NEWS | Derana NEWS
 
 ## SCAN QR CODE
 
-[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com)
+<a href='https://replit.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=)
 
