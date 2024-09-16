@@ -31,19 +31,17 @@ async function fetchNews() {
 
 async function sendNews(session, data) {
     const message = `*${data.title}* 
-●━━━━━━━━━━━━━━━━━━━━━●  
-${data.time} 
-●━━━━━━━━━━━━━━━━━━━━━● 
-${data.desc}
-●━━━━━━━━━━━━━━━━━━━━━●
 
-📍 *SL News*
+ 
+${data.time} 
+
+${data.desc}
 
 👤 *Owner No* :- http://wa.me/${OWNER_PHONE}
 
 🔗 *Create By MR-Hansamala*
 
-●━━━━━━━━━━━━━━━━━━━━━●`;
+━━━━━━━━━━━━━━━━━━━━━●`;
 
     await session.sendMessage(CHANNEL_ID, { image: { url: data.image }, caption: message }, { ephemeralExpiration: WA_DEFAULT_EPHEMERAL });
 }
