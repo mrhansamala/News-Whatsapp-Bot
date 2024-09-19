@@ -6,7 +6,7 @@
 <h2 align="center">NEWS WHATSAPP BOT
 </h2>
 
-[![Esana News](https://i.pinimg.com/280x280_RS/b0/c6/39/b0c63941935fc5f38962de479fb87c22.jpg)](https://github.com/mrhansamala)  | [![Hiru News](https://sri-lanka.mom-gmr.org/uploads/_processed_/9/9/csm_13535-1360_import_73a45a2c62.png)](https://github.com/mrhansamala) | [![Derana News](https://www.imghippo.com/i/vxPry1726498370.jpg)](https://github.com/mrhansamala) | 
+[![Esana News](https://i.pinimg.com/280x280_RS/b0/c6/39/b0c63941935fc5f38962de479fb87c22.jpg)](https://github.com/mrhansamala)  | [![Hiru News](https://sri-lanka.mom-gmr.org/uploads/_processed_/9/9/csm_13535-1360_import_73a45a2c62.png)](https://github.com/mrhansamala) | [![Derana News](https://i.ibb.co/gJ0kzTq/img-1-1726758585829.webp)](https://github.com/mrhansamala) | 
 ----|----|----|
 [Esana News](https://github.com/mrhansamala)  | [Hiru News](https://github.com/mrhansamala) | [Derana News](https://github.com/mrhansamala) | 
 Esana NEWS  | Hiru NEWS | Derana NEWS 
