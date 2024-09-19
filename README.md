@@ -86,6 +86,20 @@ Esana NEWS  | Hiru NEWS | Derana NEWS
 <br>
 
 </p>
+
+```
+☤ Put the cred.json file in ADD-CRED-JSON folder...
+
+☤ If whatsapp group whatsapp-group.js put your jid id..
+
+☤ If whatsapp channel put your jid id in whatsapp-channel.js..
+
+
+☤ Remove whatsapp-channel.js if you want group..
+
+☤ If you want whatsapp channel remove whatsapp-group.js..
+```
+
 ##BIULD PACKS
 
 1)     heroku/nodejs
