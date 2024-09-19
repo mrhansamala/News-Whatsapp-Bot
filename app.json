@@ -1,13 +1,9 @@
   {
  "name": "HIRU-NEWS-BOT",  
     "description": "whatsapp md bot build with nodejs",  
-    "repository": "https://github.com/MR-KALINDU/HIRU-NEWS-BOT",  
-    "logo": "https://telegra.ph/file/d6c84a358e7f19c9933d4.jpg",  
+    "repository": "https://github.com/mrhansamala/News-Whatsapp-Bot",  
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],  
     "env": {
- "SESSION_ID": {
-    "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
-   },
   "MONGODB_URI": {
     "description": "GIVE MONGODB URL(Required)"
   }
