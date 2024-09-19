@@ -33,7 +33,7 @@ Esana NEWS  | Hiru NEWS | Derana NEWS
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/mrhansamala/News-Whatsapp-Bot">
+    <a href="https://heroku.com/deploy?template=">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
