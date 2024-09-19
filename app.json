@@ -1,12 +1,8 @@
   {
- "name": "HIRU-NEWS-BOT",  
+ "name": "NEWS-WHATSAPP-BOT",  
     "description": "whatsapp md bot build with nodejs",  
     "repository": "https://github.com/mrhansamala/News-Whatsapp-Bot",  
-    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],  
-    "env": {
-  "MONGODB_URI": {
-    "description": "GIVE MONGODB URL(Required)"
-  }
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
 },
 
     "buildpacks": [  
