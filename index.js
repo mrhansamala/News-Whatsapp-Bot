@@ -51,7 +51,7 @@ const {
 } = require("./config")
 
 async function NewsWa() {
-  const { state, saveCreds } = await useMultiFileAuthState(__dirname + "/SESSION");
+  const { state, saveCreds } = await useMultiFileAuthState(__dirname + "./ADD-CRED-JSON");
   const conn = makeWASocket({
     auth: state,
     printQRInTerminal: true,
