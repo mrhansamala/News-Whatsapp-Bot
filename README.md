@@ -27,33 +27,33 @@ Esana NEWS  | Hiru NEWS | Derana NEWS | Tech NEWS | Nasa NEWS
 
 <br>
  
-<h4 align="center"> Deploy on Heroku
+<h4 align="center"> Deploy on Repl.it
 </h4>
 
-</p>
-
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    <a href="https://repl.it/github/mrhansamala/News-Whatsapp-Bot">
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
-
+    <br>     
+  
 </p>
 
 <p align="center" >
     <br>
     __________________________
     <br>
-</p>
-
+</p>   
+      
+      
+      
 <h4 align="center"> Deploy on Railway 
 </h4>
   
 <p align="center">
-    <a href="https://railway.app/new/template/">
+    <a href="https://railway.app">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     <br>
-
 </p>
 
 <p align="center" >
@@ -78,19 +78,100 @@ Esana NEWS  | Hiru NEWS | Derana NEWS | Tech NEWS | Nasa NEWS
 
 <p align="center" >
     <br>
-    
+    __________________________
+    <br>
 </p>
 
+
+<br>
+ 
+<h4 align="center"> Deploy on Heroku
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
+
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
 
 
 <br>
 
+
+<h4 align="center"> Deploy on Mogenius
+</h4>
+  
+<p align="center">
+    <a href="https://studio.mogenius.com/">
+    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
+    </a>
+    
 </p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+<br>
+
+<h4 align="center"> Deploy on Uffizzi
+</h4>
+  
+<p align="center">
+    <a href="https://www.uffizzi.com/">
+    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
+    </a>
+    
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+<br>
+
+<h4 align="center"> Deploy on BoxMineWorld
+</h4>
+  
+<p align="center">
+    <a href="https://dash.boxmineworld.com/">
+    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
+    </a>
+    
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+
+</details>
+
+<br>
 
 ```
 ☤ Put the cred.json file in ADD-CRED-JSON folder...
 
 ☤ config.js your Whatsapp Group Jid ID Add
+
+ALL DEPLOY PLATFROME WHATSAPP NEWS BOT
 ```
 
 ##BIULD PACKS
